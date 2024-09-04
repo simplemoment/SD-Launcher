@@ -1,0 +1,1 @@
+{'--autolaunch ': True, '--xformers ': True, '--theme=dark ': True, '--api ': False, '--use-cpu=': 'all ', '--listen ': True, '--medvram ': False}
